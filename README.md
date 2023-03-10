@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web App Security.
 - 🌱 I’m currently learning some radix sort algorithms
 - 💞️ looking up to collaborate on advanced web application exploitation whilst mitigations.
-- 📫 How to reach me? don't ! ...
+- 📫 How to reach me?  ...
 -  "fortis fortuna adiuvat"
 
 <!---
